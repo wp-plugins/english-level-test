@@ -1,10 +1,10 @@
 === English Level Test ===
 Contributors: NowSquad
 Donate link: 
-Tags: 
+Tags: English level test, e-learning, english, leveltest, tests
 Requires at least: 3.3
 Tested up to: 3.4
-Stable tag: 
+Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -20,10 +20,6 @@ This widget loads an www.englishleveltest.com widget inside an iframe with the t
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Go to Appearance -> Widgets menu, add it to your desired sidebar position, configure the widget's settings and save.
 
-== Frequently asked questions ==
-
-
-
 == Screenshots ==
 
 1. http://www.englishleveltest.com/widget/wp/question.png
@@ -31,10 +27,5 @@ This widget loads an www.englishleveltest.com widget inside an iframe with the t
 
 == Changelog ==
 
-
-
-== Upgrade notice ==
-
-
-
-== Arbitrary section 1 ==
+= 1.0.0 =
+* Initial commit
