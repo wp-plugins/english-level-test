@@ -22,8 +22,7 @@ This widget loads an www.englishleveltest.com widget inside an iframe with the t
 
 == Screenshots ==
 
-1. http://www.englishleveltest.com/widget/wp/question.png
-2. http://www.englishleveltest.com/widget/wp/results.png
+1. Simple.
 
 == Changelog ==
 
