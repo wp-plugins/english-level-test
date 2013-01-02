@@ -22,7 +22,8 @@ This widget loads an www.englishleveltest.com widget inside an iframe with the t
 
 == Screenshots ==
 
-1. Simple.
+1. Level test Question.
+2. Level test Results.
 
 == Changelog ==
 
