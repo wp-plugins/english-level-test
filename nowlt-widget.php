@@ -72,7 +72,7 @@ class NowLt_Widget extends WP_Widget {
 
 		/* Display the widget iframe */
 		?>
-                <iframe src="http://nowenglish.dev/widget-level-test/<?php echo $theme;?>" width="100%" height="370" allowtransparency="true"></iframe>
+                <iframe src="http://www.englishleveltest.com/widget-level-test/<?php echo $theme;?>" width="100%" height="370" allowtransparency="true"></iframe>
                 <?php
                 if($hidelink != 'yes') echo '<span style="font-size:10px;">Powered by <a target="_blank" href="http://www.englishleveltest.com">The English level test</a></span>';
 
