@@ -3,7 +3,7 @@
  * Plugin Name: English level test
  * Plugin URI: http://www.englishleveltest.com/widget/wp/nowlt-widget.zip
  * Description: English level test according to the CEFR.
- * Version: 1.0
+ * Version: 1.0.1
  * Author: Roberto Ladd
  * Author URI: http://www.englishleveltest.com
  *

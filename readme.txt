@@ -29,3 +29,5 @@ This widget loads an www.englishleveltest.com widget inside an iframe with the t
 
 = 1.0.0 =
 * Initial commit
+= 1.0.1 =
+* Fixed bug that pointed to a local url
